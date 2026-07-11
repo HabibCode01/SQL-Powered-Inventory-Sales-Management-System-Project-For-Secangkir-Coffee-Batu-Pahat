@@ -54,7 +54,7 @@ The system utilizes a client-server architecture where the custom PHP web applic
 
 | Login Portal | Main Dashboard | Inventory Tracking | Purchase Orders |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/login.jpeg" width="200"/> | <img src="assets/dashboard.jpeg" width="200"/> | <img src="assets/inventory.jpeg" width="200"/> | <img src="assets/orders.jpeg" width="200"/> |
+| <img src="assets/login.png" width="200"/> | <img src="assets/dashboard.png" width="200"/> | <img src="assets/inventory.png" width="200"/> | <img src="assets/orders.png" width="200"/> |
 
 ---
 
